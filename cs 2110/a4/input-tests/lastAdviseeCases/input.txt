@@ -1,0 +1,6 @@
+contains Arthur Cayley
+size Arthur Cayley
+advisor Arthur Cayley
+ancestor Arthur Cayley, Adam Sedgwick
+lineage Arthur Cayley
+exit

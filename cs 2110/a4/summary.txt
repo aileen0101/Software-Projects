@@ -1,0 +1,22 @@
+(Fill out this file with brief answers.)
+
+Name(s) and NetID(s) of group members:
+Aileen Huang (aeh245)
+
+Time spent on the assignment, in hours: 20 hours
+
+Implementation strategy:
+    (describe how you went about implementing the assignment and how the work was divided between the partners.)
+I worked on the assignment independently and went to office hours and queme for additional help.
+
+Testing strategy:
+    (how did you perform testing and design test cases to achieve coverage?)
+I created test cases for different types of trees in PhDTreeTest, and organized my input tests for PhDApp by directory: addressing root nodes, final descendant nodes, nodes between
+the root and final descendant nodes, and error cases.
+
+Known problems:
+    (are there any things that do not work?)
+N/A
+
+Comments on the assignment:
+This assignment helped me better understand try-catch blocks and exceptions.

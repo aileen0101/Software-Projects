@@ -1,0 +1,8 @@
+contains Aileen Huang
+contains Macy Jones
+size Dylan Jones
+advisor Aileen Huang
+ancestor Aileen Huang, Macy Jones
+ancestor Macy Jones, Dylan Jones
+lineage Aileen Huang
+exit

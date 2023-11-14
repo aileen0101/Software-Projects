@@ -1,0 +1,20 @@
+# A5 summary
+
+(Fill out this file with brief answers.)
+
+Name(s) and NetID(s) of group members:
+Aileen Huang (aeh245)
+
+Time spent on the assignment, in hours:
+15
+
+Implementation strategy:
+    (describe how you went about implementing the assignment and how the work was divided between the partners.)
+I implemented all methods, using office hours for help as well.
+Testing strategy:
+    (how did you perform testing and design test cases to achieve coverage?)
+I ran the program along the process of implementing more functions.
+Known problems:
+    (are there any things that do not work?)
+I think my technique for saving the file may have been incorrect.
+Comments on the assignment:

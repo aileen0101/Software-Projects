@@ -1,0 +1,9 @@
+This professor is contained in the tree.
+This professor is contained in the tree.
+This professor is contained in the tree.
+The number of nodes in this tree is: 8.
+The number of nodes in this tree is: 2.
+The advisor of this advisee is: Robert Smith (1715).
+The common ancestor of these professors is: Walter Taylor (1723).
+The common ancestor of these professors is: Stephen Whisson (1742).
+The lineage is: Isaac Newton (1668)--Roger Cotes (1706)--Robert Smith (1715)--Walter Taylor (1723)--Stephen Whisson (1742)--Thomas Postlethwaite (1756)--Thomas Jones (1782)--Adam Sedgwick (1811).

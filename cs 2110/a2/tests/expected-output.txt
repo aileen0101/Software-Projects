@@ -1,0 +1,52 @@
+Please enter a command: help
+
+help
+  Output a summary of all available commands
+addstudent <firstName> <lastName>
+  Create a new student with the specified name
+addcourse <courseName> <profName> <location> <time (24-hour)> <duration (min)> <credits>
+  Create a new course with the specified properties
+enroll <student ID> <course ID>
+  Enroll the specified student in the specified course
+drop <student ID> course ID>
+  Drop the specified student from the specified course
+students
+  List all students being tracked
+courses
+  List all courses being tracked
+enrollment <course ID>
+  List all students enrolled in the specified course
+exit
+  Exit the program
+
+Please enter a command: addstudent Martha Pollack
+Successfully created new student: Martha Pollack
+Please enter a command: addstudent Bill Nye
+Successfully created new student: Bill Nye
+Please enter a command: students
+
+  0: Martha Pollack
+  1: Bill Nye
+Please enter a command: addcourse OOP Gries Statler 10:10 50 3
+Successfully created new course: OOP taught by Professor Gries at 10:10 AM, Location: Statler, Duration: 50 min, Credits: 3
+Please enter a command: addcourse Wines Stanley Statler 14:40 115 2
+Successfully created new course: Wines taught by Professor Stanley at 2:40 PM, Location: Statler, Duration: 115 min, Credits: 2
+Please enter a command: courses
+
+ 0: OOP
+ 1: Wines
+Please enter a command: enroll 0 0
+Martha Pollack was successfully enrolled in OOP
+Please enter a command: enroll 1 1
+Bill Nye was successfully enrolled in Wines
+Please enter a command: enrollment 0
+{Martha Pollack}
+Please enter a command: enrollment 1
+{Bill Nye}
+Please enter a command: drop 1 0
+Bill Nye is not enrolled in OOP
+Please enter a command: drop 0 0
+Martha Pollack was successfully dropped from OOP
+Please enter a command: enrollment 0
+{}
+Please enter a command: exit

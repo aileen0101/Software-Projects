@@ -1,0 +1,22 @@
+(Fill out this file with brief answers.)
+
+Name(s) and NetID(s) of group members:
+Aileen Huang (aeh245)
+
+Time spent on the assignment, in hours:
+20+
+
+Implementation strategy:
+    (describe how you went about implementing the assignment and how the work was divided between the partners.)
+I implemented all the functions, with help from TAs during office or consulting hours.
+
+Testing strategy:
+    (how did you perform testing and design test cases to achieve coverage?)
+I tested the corner cases for ShortestPath that were mentioned on Ed.
+
+Known problems:
+    (are there any things that do not work?)
+N/A
+
+Comments on the assignment:
+This assignment was useful for building understanding of graph data structures.

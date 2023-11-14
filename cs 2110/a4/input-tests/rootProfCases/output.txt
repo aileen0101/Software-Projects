@@ -1,0 +1,6 @@
+This professor is contained in the tree.
+The number of nodes in this tree is: 10.
+This professor does not have an advisor in the tree.
+These professors do not have a common ancestor in the tree.
+The common ancestor of these professors is: Isaac Newton (1668).
+The lineage is: Issac Newton (1668).
