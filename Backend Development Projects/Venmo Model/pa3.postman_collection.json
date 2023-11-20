@@ -1,10 +1,10 @@
 {
 	"info": {
-		"_postman_id": "1a20da30-abf7-4b1c-8016-46237038f7ac",
-		"name": "pa2",
+		"_postman_id": "a69ad249-8c82-4bfa-a848-6001d95a5b77",
+		"name": "pa3",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
 		"_exporter_id": "30347367",
-		"_collection_link": "https://www.postman.com/aeh245/workspace/intro-to-backend/collection/30347367-1a20da30-abf7-4b1c-8016-46237038f7ac?action=share&source=collection_link&creator=30347367"
+		"_collection_link": "https://www.postman.com/aeh245/workspace/intro-to-backend/collection/30347367-a69ad249-8c82-4bfa-a848-6001d95a5b77?action=share&source=collection_link&creator=30347367"
 	},
 	"item": [
 		{
@@ -36,15 +36,6 @@
 			"request": {
 				"method": "POST",
 				"header": [],
-				"body": {
-					"mode": "raw",
-					"raw": "\n{\n    \"name\": \"Raahi Menon\",\n    \"username\": \"raahi014\"\n}",
-					"options": {
-						"raw": {
-							"language": "json"
-						}
-					}
-				},
 				"url": {
 					"raw": "http://0.0.0.0:8000/api/users/",
 					"protocol": "http",
@@ -70,7 +61,7 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "http://0.0.0.0:8000/api/user/12/",
+					"raw": "http://0.0.0.0:8000/api/users/2/",
 					"protocol": "http",
 					"host": [
 						"0",
@@ -81,8 +72,8 @@
 					"port": "8000",
 					"path": [
 						"api",
-						"user",
-						"12",
+						"users",
+						"2",
 						""
 					]
 				}
@@ -95,7 +86,7 @@
 				"method": "DELETE",
 				"header": [],
 				"url": {
-					"raw": "http://0.0.0.0:8000/api/user/2/",
+					"raw": "http://0.0.0.0:8000/api/users/1/",
 					"protocol": "http",
 					"host": [
 						"0",
@@ -106,8 +97,8 @@
 					"port": "8000",
 					"path": [
 						"api",
-						"user",
-						"2",
+						"users",
+						"1",
 						""
 					]
 				}
@@ -115,21 +106,12 @@
 			"response": []
 		},
 		{
-			"name": "sendMoney",
+			"name": "createTransaction",
 			"request": {
 				"method": "POST",
 				"header": [],
-				"body": {
-					"mode": "raw",
-					"raw": "{\n    \"sender_id\": 12,\n    \"receiver_id\": 14\n}",
-					"options": {
-						"raw": {
-							"language": "json"
-						}
-					}
-				},
 				"url": {
-					"raw": "http://0.0.0.0:8000/api/send/",
+					"raw": "http://0.0.0.0:8000/api/transactions/",
 					"protocol": "http",
 					"host": [
 						"0",
@@ -140,7 +122,32 @@
 					"port": "8000",
 					"path": [
 						"api",
-						"send",
+						"transactions",
+						""
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "acceptOrDeny",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"url": {
+					"raw": "http://0.0.0.0:8000/api/transactions/1/",
+					"protocol": "http",
+					"host": [
+						"0",
+						"0",
+						"0",
+						"0"
+					],
+					"port": "8000",
+					"path": [
+						"api",
+						"transactions",
+						"1",
 						""
 					]
 				}
