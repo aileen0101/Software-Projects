@@ -1,0 +1,7 @@
+contains Isaac Newton
+size Isaac Newton
+advisor Isaac Newton
+ancestor Isaac Newton, Aileen Huang
+ancestor Isaac Newton, William Hopkins
+lineage Isaac Newton
+exit

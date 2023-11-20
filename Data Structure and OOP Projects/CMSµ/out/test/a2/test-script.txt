@@ -1,0 +1,15 @@
+help
+addstudent Martha Pollack
+addstudent Bill Nye
+students
+addcourse OOP Gries Statler 10:10 50 3
+addcourse Wines Stanley Statler 14:40 115 2
+courses
+enroll 0 0
+enroll 1 1
+enrollment 0
+enrollment 1
+drop 1 0
+drop 0 0
+enrollment 0
+exit

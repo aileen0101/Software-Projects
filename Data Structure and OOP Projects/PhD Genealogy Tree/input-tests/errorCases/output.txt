@@ -1,0 +1,7 @@
+This professor is not contained in the tree.
+This professor is not contained in the tree.
+This professor does not exist in the tree.
+This professor does not exist in the tree.
+These professors do not have a common ancestor in the tree.
+These professors do not have a common ancestor in the tree.
+This professor does not exist in the tree.

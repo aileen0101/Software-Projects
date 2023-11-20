@@ -1,0 +1,5 @@
+This professor is contained in the tree.
+The number of nodes in this tree is: 1.
+The advisor of this advisee is: William Hopkins (1830).
+The common ancestor of these professors is: Adam Sedgwick (1811).
+The lineage is: Isaac Newton (1668)--Roger Cotes (1706)--Robert Smith (1715)--Walter Taylor (1723)--Stephen Whisson (1742)--Thomas Postlethwaite (1756)--Thomas Jones (1782)--Adam Sedgwick (1811)--William Hopkins (1830)--Arthur Cayley (1864).

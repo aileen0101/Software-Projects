@@ -1,0 +1,10 @@
+contains Roger Cotes
+contains Robert Smith
+contains Thomas Jones
+size Robert Smith
+size William Hopkins
+advisor Walter Taylor
+ancestor Thomas Jones, Walter Taylor
+ancestor William Hopkins, Stephen Whisson
+lineage Adam Sedgwick
+exit

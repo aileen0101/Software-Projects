@@ -1,0 +1,11 @@
+version: "3"
+
+services:
+  demo:
+    image: "aeh245/demo5:v1"
+    ports: 
+    #right - port in container 
+    #left - port on computer 
+    - "8000:8000"
+    
+    env_file: ".env"
