@@ -1,7 +1,7 @@
 # Software-Projects
 Repository of Aileen Huang's Software Development Projects
 
-# Hi! It's Aileen here :)
+**Hi! It's Aileen here!**
 
 I’m a junior at Cornell University majoring in Computer Science and minoring in AI, where I specialize in designing innovative algorithms and transforming them into software solutions. This repository features a collection of my academic and personal projects, showcasing:
 
