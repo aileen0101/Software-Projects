@@ -1,4 +1,0 @@
-BookBeats: Song Recommendation System
-
-https://github.com/ay283/bookbeats
-Link to BookBeats Website: http://4300showcase.infosci.cornell.edu:4180
