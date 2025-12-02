@@ -1,5 +1,5 @@
-# Software-Projects
-Repository of Aileen Huang's Software Development Projects
+# Software Projects
+Repository of Aileen Huang's Personal Software Development Projects
 
 **Hi! It's Aileen here!**
 
