@@ -2,9 +2,9 @@
 
 I'm a senior at **Cornell University** studying **Computer Science** with a minor in **AI**.
 
-**Current goal:** becoming a **Machine Learning Engineer in healthcare** — sharpening ML engineering, systems thinking, and the collaboration & leadership skills I'll need to ship real clinical tools.
+**Current goal:** becoming a **Machine Learning Engineer in healthcare**: sharpening ML engineering, systems thinking, and the collaboration & leadership skills I'll need to ship real clinical tools.
 
-**Long term:** building a career at the intersection of **AI/ML and healthcare** — working on the ML that improves patient outcomes, supports clinicians, and makes care safer and more humane, from medication adherence to clinical decision support.
+**Long term:** building a career at the intersection of **AI/ML and healthcare**: working on the ML that improves patient outcomes, supports clinicians, and makes care safer and more humane, from medication adherence to clinical decision support.
 
 This repository is a running portfolio of the projects I've built on the way there. It's organized around the three capabilities I'm deliberately sharpening: **ML engineering, systems thinking, and collaboration & leadership.**
 
@@ -74,4 +74,4 @@ Every project here is a step toward the same long-term direction: **a career in 
 - LinkedIn: http://linkedin.com/in/aileen-huang-802a04260
 - Email: appleny38@gmail.com
 
-Feel free to explore, fork, or reach out — I'd love to hear from you.
+Feel free to explore, fork, or reach out!
