@@ -2,7 +2,7 @@
 
 I'm a senior at **Cornell University** studying **Computer Science** with a minor in **AI**.
 
-**Current goal:** becoming a **Machine Learning Engineer in healthcare**: sharpening ML engineering, systems thinking, and the collaboration & leadership skills I'll need to ship real clinical tools.
+**Eventual goal:** **Machine Learning Engineer in healthcare**: sharpening ML engineering, systems thinking, and the collaboration & leadership skills I'll need to ship real clinical tools.
 
 **Long term:** building a career at the intersection of **AI/ML and healthcare**: working on the ML that improves patient outcomes, supports clinicians, and makes care safer and more humane, from medication adherence to clinical decision support.
 
