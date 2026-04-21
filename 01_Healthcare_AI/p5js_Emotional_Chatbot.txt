@@ -1,0 +1,17 @@
+p5.js Emotional Chatbot
+
+Overview
+--------
+An LLM-powered chatbot that guides a novice programmer through translating a personal emotional experience — such as feeling like an outsider, feeling lonely in a crowd, or the elation of being on top of the world — into a creative p5.js sketch. The chatbot doesn't write the sketch for you; it helps you code and refine your own.
+
+Task
+----
+Design and implement an LLM-powered chatbot that helps a novice programmer create p5.js sketches that creatively communicate a unique life experience of theirs.
+
+Deliverable: a p5.js sketch that communicates what it felt like to be an outsider, produced in collaboration with the chatbot.
+
+Why This Matters
+----------------
+This project mirrors a real challenge I care deeply about in AI for healthcare and beyond: designing AI systems that *enhance* human creativity, agency, and well-being rather than automate them away. In a clinical context, the same principle applies — AI should support patients and clinicians in expressing, understanding, and acting on their own experiences, not replace their judgment.
+
+For me, this is an early exploration of how conversational AI can scaffold reflection and expression — patterns I want to carry into future healthcare ML work around mental health, patient journaling, and emotionally-aware care tools.

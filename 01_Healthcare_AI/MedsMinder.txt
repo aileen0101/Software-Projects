@@ -1,0 +1,36 @@
+MedsMinder
+Repo: https://github.com/aileen0101/MedsMinder.git
+
+Overview
+--------
+MedsMinder is a medication management app designed to help patients — especially those on multiple prescriptions — take their medications consistently, understand them, and communicate effectively with caregivers and clinicians. It's an early step toward my long-term direction of working at the intersection of AI/ML and healthcare on real clinical and patient problems.
+
+Problem
+-------
+Medication non-adherence and mismanagement are among the most common and costly problems in patient care. Patients routinely struggle to:
+- Remember doses and maintain a consistent pill schedule, especially across multiple prescriptions
+- Understand what a medication does, its side effects, and its drug/food interactions
+- Adjust their lifestyle to accommodate new medications
+- Track symptoms and side effects over time
+- Communicate concerns and changes to caregivers and healthcare providers
+
+Solution
+--------
+MedsMinder combines reminders, medication education, routine planning, symptom tracking, and caregiver communication into one unified experience — giving patients a single place to manage the daily reality of being on medication.
+
+Core Features
+-------------
+- Emergency profile — allergies, conditions, blood type, current medications, prescriber info, and emergency contacts, all accessible in urgent situations
+- Pill reminders and dose/consumption logging
+- Refill management
+- Medication details — name, dose, purpose, instructions, side effects, contraindications, and lifestyle guidance ("take with food", "avoid alcohol", "avoid grapefruit", etc.)
+- Lifestyle routine updates when drug interactions require them
+- Side-effect and symptom journal for longitudinal tracking
+- Patient communication tools
+    - A "Health Answers"-style feature that surfaces peer-reviewed information to answer medication questions
+    - Nearby healthcare provider lookup
+    - (Planned) Direct patient–caregiver messaging for ongoing collaboration
+
+Why This Project Matters to Me
+------------------------------
+MedsMinder sits at the intersection of the three things I care most about: applied ML potential (personalized reminders, interaction detection, symptom pattern recognition), thoughtful product design for real patients, and the broader mission of using technology to make healthcare safer and more humane.
