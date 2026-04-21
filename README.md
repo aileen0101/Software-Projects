@@ -2,7 +2,7 @@
 
 I'm a senior at **Cornell University** studying **Computer Science** with a minor in **AI**.
 
-**Right now:** becoming a **Machine Learning Engineer in healthcare** — sharpening ML engineering, systems thinking, and the collaboration & leadership skills I'll need to ship real clinical tools.
+**Current goal:** becoming a **Machine Learning Engineer in healthcare** — sharpening ML engineering, systems thinking, and the collaboration & leadership skills I'll need to ship real clinical tools.
 
 **Long term:** building a career at the intersection of **AI/ML and healthcare** — working on the ML that improves patient outcomes, supports clinicians, and makes care safer and more humane, from medication adherence to clinical decision support.
 
@@ -19,7 +19,7 @@ Projects where I'm directly exploring how ML and thoughtful software design can 
 
 ## [02] Machine Learning & NLP
 
-Hands-on ML engineering work — from classical models to transformer-based systems — that builds the foundation for applying ML to healthcare data.
+Hands-on ML engineering work, from classical models to transformer-based systems, that builds the foundation for applying ML to healthcare data.
 
 - **Emotion Classification** — Partner project classifying emotional states from text (directly relevant to mental-health and patient-sentiment applications).
 - **NER Tagging Model** — Named entity recognition using HMM + Viterbi decoding, including data exploration and validation pipelines.
@@ -29,12 +29,12 @@ Hands-on ML engineering work — from classical models to transformer-based syst
 
 ## [03] Backend & Full-Stack Systems — Systems Thinking
 
-Server-side architecture, APIs, and data modeling — the engineering backbone required to deploy ML products at scale.
+Server-side architecture, APIs, and data modeling, systems required to deploy ML products at scale.
 
 - **CMS — Course Management System** — Backend for course, user, and assignment management.
 - **Reddit** — API + data model for a Reddit-style social platform.
 - **Venmo Model** — Transaction-based data model and API design.
-- **CUTix Backend** — Ticketing-platform backend ([repo](https://github.com/belle-hu/CUtix/tree/main/backend)).
+- **CUTix Backend** - Ticketing-platform backend ([repo](https://github.com/belle-hu/CUtix/tree/main/backend)).
 
 ## [04] Autonomous Systems & Robotics — Collaboration & Leadership
 
@@ -51,7 +51,7 @@ See `05_Product_Experiments.md` for links.
 
 ## [06] CS Foundations
 
-Coursework projects that built the core CS, data-structures, and functional-programming fluency I rely on in every project above.
+Coursework projects that built the core CS, data-structures, and functional-programming fluency
 
 - **Java** (`06_CS_Foundations/Java/`) — CMSµ, GUI Mouse-Clicker Game, McDiver Sewer Navigation, PhD Genealogy Tree, Spreadsheet Merging Program.
 - **OCaml** (`06_CS_Foundations/OCaml/`) — Chat Text Generator, DNA Tree Predictor, Search Document Engine.
