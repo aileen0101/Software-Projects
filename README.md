@@ -59,12 +59,6 @@ Coursework projects that built the core CS, data-structures, and functional-prog
 
 ---
 
-## Currently
-
-- Deepening ML engineering skills — PyTorch, transformers, and evaluation pipelines.
-- Designing MedsMinder's next iteration with ML-powered adherence and interaction insights.
-- Looking for **ML engineering roles in healthcare**, and always up for conversations with anyone working at the intersection of ML, healthcare, and product.
-
 ## Where I'm Headed
 
 Every project here is a step toward the same long-term direction: **a career in AI/ML applied to healthcare**. The ML & NLP work sharpens the modeling skills; the backend and robotics work trains the systems thinking; and the healthcare projects are where it all comes together.
