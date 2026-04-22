@@ -4,7 +4,7 @@ I'm a senior at Cornell University studying Computer Science with a minor in AI.
 
 **Eventual goal:** **Machine Learning Engineer in healthcare**: sharpening ML engineering, systems thinking, and the collaboration & leadership skills I'll need to ship real clinical tools.
 
-**Long term:** building a career at the intersection of **AI/ML and healthcare**: working on the ML that improves patient outcomes, supports clinicians, and makes care safer and more humane, from medication adherence to clinical decision support.
+**Long term:** building a career at the intersection of AI/ML and healthcare: working on the ML that improves patient outcomes, supports clinicians, and makes care safer and more humane, from medication adherence to clinical decision support.
 
 This repository is a running portfolio of my projects. It's organized around the following skills: **ML engineering, systems thinking, and collaboration & leadership.**
 
@@ -40,22 +40,22 @@ Server-side architecture, APIs, and data modeling, systems required to deploy ML
 
 Work on Cornell's AutoBoat AI team, building algorithms integrated in our ROS codebase for competition.
 
-- **Cornell AutoBoat — AI Developer** — Path-planning, pure-pursuit execution, obstacle avoidance, ROS integration, and debugging via unit tests and visualization. Details in `04_Autonomous_Systems_AutoBoat/README.md` (repo is Cornell-student access only).
+- **Cornell AutoBoat — AI Developer** : Path-planning, pure-pursuit execution, obstacle avoidance, ROS integration, and debugging via unit tests and visualization. Details in `04_Autonomous_Systems_AutoBoat/README.md` (repo is Cornell-student access only).
 
 ## [05] Mobile & Product Experiments
 
 See `05_Product_Experiments.md` for links.
 
-- **daredevil** — iOS motivation app ([repo](https://github.com/aileen0101/daredevil)).
-- **BookBeats** — Personalized song recommendation system ([repo](https://github.com/ay283/bookbeats), [live site](http://4300showcase.infosci.cornell.edu:4180)).
+- **daredevil** : iOS motivation app ([repo](https://github.com/aileen0101/daredevil)).
+- **BookBeats** : Personalized song recommendation system ([repo](https://github.com/ay283/bookbeats), [live site](http://4300showcase.infosci.cornell.edu:4180)).
 
 ## [06] CS Foundations
 
 Coursework projects establishing foundational skills in CS, data structures, and functional programming
 
-- **Java** (`06_CS_Foundations/Java/`) — CMSµ, GUI Mouse-Clicker Game, McDiver Sewer Navigation, PhD Genealogy Tree, Spreadsheet Merging Program.
-- **OCaml** (`06_CS_Foundations/OCaml/`) — Chat Text Generator, DNA Tree Predictor, Search Document Engine.
-- **Python** (`06_CS_Foundations/Python/`) — Color Models GUI, Currency Exchange Application, Imager Application, Planetoids GUI Game, Turtle Graphics.
+- **Java** (`06_CS_Foundations/Java/`) : CMSµ, GUI Mouse-Clicker Game, McDiver Sewer Navigation, PhD Genealogy Tree, Spreadsheet Merging Program.
+- **OCaml** (`06_CS_Foundations/OCaml/`) : Chat Text Generator, DNA Tree Predictor, Search Document Engine.
+- **Python** (`06_CS_Foundations/Python/`) : Color Models GUI, Currency Exchange Application, Imager Application, Planetoids GUI Game, Turtle Graphics.
 
 ---
 
