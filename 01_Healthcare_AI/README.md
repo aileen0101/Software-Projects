@@ -1,6 +1,6 @@
-# 01 · Healthcare × AI
+# 01 · Applied AI — Product & Human-Centered Projects
 
-The flagship of this portfolio. Projects here explore how ML and thoughtful software design can improve patient outcomes, clinician workflows, and emotional well-being — the core of my long-term direction in AI/ML for healthcare.
+Projects exploring how ML and thoughtful software design can address real user needs — from behavior change to creative expression and emotional well-being.
 
 ## Projects
 
@@ -9,4 +9,4 @@ The flagship of this portfolio. Projects here explore how ML and thoughtful soft
 
 ## Why this folder comes first
 
-These projects sit at the intersection of the capabilities I'm building toward: applied ML, patient-centered product design, and conversational/generative AI used to *augment* human agency rather than replace it.
+These projects sit at the intersection of the capabilities I'm building toward: applied ML, user-centered product design, and conversational/generative AI used to *augment* human agency rather than replace it.

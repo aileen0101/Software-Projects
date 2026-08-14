@@ -2,26 +2,26 @@
 
 I'm a senior at **Cornell University** studying **Computer Science** with a minor in **AI**.
 
-**Right now:** becoming a **Machine Learning Engineer in healthcare** — sharpening ML engineering, systems thinking, and the collaboration & leadership skills I'll need to ship real clinical tools.
+**Right now:** becoming a **Machine Learning Engineer** — sharpening ML engineering, systems thinking, and the collaboration & leadership skills I'll need to ship real ML-powered products.
 
-**Long term:** building a career at the intersection of **AI/ML and healthcare** — working on the ML that improves patient outcomes, supports clinicians, and makes care safer and more humane, from medication adherence to clinical decision support.
+**Long term:** building a career in **AI/ML** — working on the models and systems that solve meaningful problems, from NLP and recommendation to generative AI and autonomous systems.
 
 This repository is a running portfolio of the projects I've built on the way there. It's organized around the three capabilities I'm deliberately sharpening: **ML engineering, systems thinking, and collaboration & leadership.**
 
 ---
 
-## [01] Healthcare × AI — Flagship Focus
+## [01] Applied AI — Product & Human-Centered Projects
 
-Projects where I'm directly exploring how ML and thoughtful software design can improve patient outcomes, clinician workflows, and emotional well-being. This is the core of where I'm headed.
+Projects where I'm directly exploring how ML and thoughtful software design can address real user needs, from emotional well-being to behavior change.
 
 - **MedsMinder** — A medication management app tackling adherence, education, side-effect tracking, and caregiver communication in one place. See `01_Healthcare_AI/MedsMinder.txt` · [Repo](https://github.com/aileen0101/MedsMinder)
 - **p5.js Emotional Chatbot** — An LLM-powered chatbot that helps novice programmers translate personal emotional experiences into creative p5.js sketches, exploring how AI can *augment* human creativity rather than replace it. See `01_Healthcare_AI/p5js_Emotional_Chatbot.txt`.
 
 ## [02] Machine Learning & NLP
 
-Hands-on ML engineering work — from classical models to transformer-based systems — that builds the foundation for applying ML to healthcare data.
+Hands-on ML engineering work — from classical models to transformer-based systems — building the core modeling foundation for applying ML across domains.
 
-- **Emotion Classification** — Partner project classifying emotional states from text (directly relevant to mental-health and patient-sentiment applications).
+- **Emotion Classification** — Partner project classifying emotional states from text.
 - **NER Tagging Model** — Named entity recognition using HMM + Viterbi decoding, including data exploration and validation pipelines.
 - **NER Tagging (FFNN + RNN)** — Neural re-implementation of NER with feed-forward and recurrent architectures, custom tokenizer, and training loop.
 - **Seagull Transformers — Humor Generation Model** — Transformer-based text generation experiment.
@@ -62,12 +62,12 @@ Coursework projects that built the core CS, data-structures, and functional-prog
 ## Currently
 
 - Deepening ML engineering skills — PyTorch, transformers, and evaluation pipelines.
-- Designing MedsMinder's next iteration with ML-powered adherence and interaction insights.
-- Looking for **ML engineering roles in healthcare**, and always up for conversations with anyone working at the intersection of ML, healthcare, and product.
+- Designing MedsMinder's next iteration with ML-powered features.
+- Looking for **ML engineering roles**, and always up for conversations with anyone working at the intersection of ML, product, and real-world impact.
 
 ## Where I'm Headed
 
-Every project here is a step toward the same long-term direction: **a career in AI/ML applied to healthcare**. The ML & NLP work sharpens the modeling skills; the backend and robotics work trains the systems thinking; and the healthcare projects are where it all comes together.
+Every project here is a step toward the same long-term direction: **a career in AI/ML**. The ML & NLP work sharpens the modeling skills; the backend and robotics work trains the systems thinking; and the applied AI projects are where it all comes together.
 
 ## Reach Out
 
